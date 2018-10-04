@@ -130,11 +130,11 @@
                <head>Page 2 <seg ana="MemLon_300045-02" />
                </head>
                <p>
-                  I Sam.l Tippett have thought it might not
+                  I <persName>Sam.l Tippett</persName> have thought it might not
                   be amiss to leave the following lines behind me
-                  I was Born in the year of our Lord in 1711
-                  In the Parrish of Bitton, in the Hamlet of Oland
-                  My Father died when I was young, my mother
+                  I was Born in the year of our Lord in <date>1711</date>
+                  In the <placeName>Parrish of Bitton</placeName>, in the Hamlet of <placeName>Oland</placeName>
+                  <name type="event">My Father died</name> when I was young, my mother
                   kept me to school tho with some difficulty, For
                   I was of a light turn of mind and giving very
                   much to play with other Boys which made
@@ -170,7 +170,7 @@
                   a little Book as I met with by chance I felt
                   something in my Heart that I never felt before,
                   and had it been possible I cou'd then even sunk
-                  into nothing in tears of love before the Lord Jesus
+                  into nothing in tears of love before the Lord <persName>Jesus</persName>
                   and the Covenant that I made with Him that
                   evening I though then to have kept to all the days
                   of my Life, But this soon wear'd of, and for want
@@ -238,7 +238,7 @@
                   ways that I did think to get happiness in,
                   abought this time I goot aguainted
                   with my dear wife and was maried into the
-                  year 1736 by whome I have had Eleven
+                  year <date>1736</date> by whome I have had Eleven
                   Children, For the first two years and more
                   I went on in my old cource of life
                   with my merry Company thinking by &amp;
@@ -247,9 +247,9 @@
                   all that I took in hand seem'd to make
                   against me; that I knew not which
                   way I shou'd come through in the world
-                  about this time Mr. Whitfield came
+                  about this time Mr. <persName>Whitfield</persName> came
                   in these parts and I went to hear him
-                  at a place cal'd Hannam Mount, He spoke
+                  at a place cal'd <placeName>Hannam Mount</placeName>, He spoke
                   of the Prodigal son returning to his Father
                   and of our fall by nature and how willing
                   Jesus Christ was to receive every returning

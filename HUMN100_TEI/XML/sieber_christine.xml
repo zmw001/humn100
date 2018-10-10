@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Rosine Tanneberger: Memoir</title>
+            <title>Christine Sieber: Memoir</title>
             <funder>The Moravian Lives Project</funder>
             <principal><persName>Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
                <address>
@@ -76,8 +76,8 @@
                <persName>Rosemary Rong</persName>
                <persName>Samantha Salazar</persName>
                <persName>Zakee Willis</persName>
-               <orgName>Bucknell University</orgName>
-            </respStmt>
+               <orgName>Bucknell University</orgName>              
+            </respStmt>   
          </titleStmt>
          <editionStmt>
             <edition>
@@ -99,8 +99,9 @@
             <msDesc>
                <msIdentifier>
                   <repository>Moravian Archives, Bethlehem</repository>
-                  <msName type="memoir">Rosine Tanneberger</msName>
-                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0140-01.jpg" />
+                  <msName type="memoir">Christine Sieber</msName>
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0141-01.jpg" />
+                  <msName facs="http://moravianlives.bucknell.edu/MAB/MemBeth_0141-02.jpg" />
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -109,18 +110,66 @@
    <text type="memoir">
       <body xml:lang="en">
          <div type="memoir">
-            <head type="memoir">Rosine Taneberger</head>
-            <docAuthor>ADD EDITOR NAMES BETWEEN THESE TAGS AND DELETE THIS TEXT</docAuthor>
+            <head>Christine Sieber</head>
             <div type="page" n="1">
-               <head type="page" ana="MemBeth_0140-01">1
+               <head>Page 1 <seg ana="MemBeth_0141-01" />
                </head>
-               <p> II. The married Sist. Rosine Taneberger. She was Ao 1708 born at Mammendorf in Moravia. Her Vaters name was Geo. Weber. The holy ghost had from her tender youth his work in heart
-                  &amp; she spent her time continually without Rest in her soul. In her 25th. year of Age she married Michel Taneberger. she [has] 2 Boys with him but they died very young. She very
-                  often pineth to hear the Gospel of Jesus Sufferings of Death, therefore she very begged dear God to still her Desire &amp; help her to a Place where she could find rest for her poor
-                  soul,then she could not find that in her Mother Country. Ao 1753. the 13th October She got a feeling in her heart to move to Gnaden- frey, they hastened as much as possible &amp;
-                  escaped hardly from their pursuers. The 31 of Dec. she arrived here very much rejoiced. Soon after a critical occasion pretty nearly persuadeth her husbands to remove from here to
-                  his son. She therefore was so embarrassed &amp; intreated our Serviour in her Perplexity saying: feared my heart catched a spark of grace, &amp; instead to become a fire he will be
-                  quenched! </p>
+               <p>
+                  Aged 55 years
+                  III. The Girl Christine Sieber.
+                  She was born at gnadenfry??? the 10th of Sept. 1757.
+                  After her Valent Departure of this Life, she came
+                  with her Mother as a little child into the Widows 
+                  House, where every Body loved her. In her tenderest 
+                  years she had a Feeling of our Saviour in her
+                  Heart, and in the Day Time She was educated with
+                  the Children in the Anstalt. Ano 50 the 18th October
+                  She received quite in the Children Anstalt, where
+                  She in Comunion with other Children kept many a 
+                  Liturgie to our Saviour. Ano 58 She was received 
+                  into the Children Congregation. Allway it was a
+                  great Blessing to her, when She in comunion with the
+                  Children was allowed ot prostrate her self to our Saviour.
+                  Her poor Body was so weakly that at last all her limbs
+                  grow lame. Therefore she must be carryed everywhere.
+                  This caus'd her many a Smart &amp; some tinier impatience 
+                  that She must loose so many fine Meetings. But
+                  when She thought on our Saviour and is Smart,
+                  then She was in her Heart ashamed &amp; of all Heart
+                  contented. She wept many Tears &amp; very often confessed:
+                  I am a poor &amp; miserable Child, &amp; for all that our
+                  ​​​​​​​dear
+               </p>
+            </div>
+            
+            <div type="page" n="2">
+               <head>Page 2 <seg ana="MemBeth_0141-02" />
+               </head>
+               <p>
+                  dear Saviour loveth me, as is very often on my 
+                  Place so near to me, that I am not able to 
+                  describe it. I am willing from all my Heart to renounce every Thing in his Way, to make
+                  me soon to his Pleasure.
+                  the 3th April She was still with her Children very
+                  amusing. The 4th She complaint about great Pain
+                  on her Breast, &amp; declared directly that she is to 
+                  go home, for that reason She took by her Sisters 
+                  who attended &amp; thanked them two times for their
+                  Care &amp; trouble whith She made &amp; promised to 
+                  think on them by our dear Saviour. After that
+                  She toock Leave in a very tender maner by her 
+                  Mother &amp; desireth she would sing Verses, as 
+                  among the rest these: Ich riech mich auf 
+                  Ven Sabbat ang. Mein Seelgen wird such
+                  bald einmal aus feinen Hüttchen shwingen.
+                  Her Children continued with a sweet Litgurgie
+                  around her Bed. After that her tender Desire by 
+                  our Saviour was to call her soon home. And said 
+                  very often: Lovely Lamb, pray come soon! Asoon
+                  and in the Evening at 11 a cllok she went happy
+                  home in our Heaven .Wound in her 12 Years of Age
+               </p>
+                  
             </div>
          </div>
       </body>

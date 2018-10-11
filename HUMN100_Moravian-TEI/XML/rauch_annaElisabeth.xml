@@ -76,8 +76,8 @@
                <persName>Rosemary Rong</persName>
                <persName>Samantha Salazar</persName>
                <persName>Zakee Willis</persName>
-               <orgName>Bucknell University</orgName>              
-            </respStmt>   
+               <orgName>Bucknell University</orgName>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -117,10 +117,12 @@
    <text type="memoir">
       <body xml:lang="en">
          <div type="memoir">
-            <head>Anna Elizabeth Rauch</head>
+            <head type="memoir">Anna Elizabeth Rauch</head>
+            <docAuthor>ADD EDITOR NAMES BETWEEN THESE TAGS AND DELETE THIS TEXT</docAuthor>
             <div type="page" n="1">
-               <head>Page 1 <seg ana="MemBeth_0102-01" />
+               <head type="page" ana="MemBeth_0102-01">1
                </head>
+
                <p>
                   A smal account of <persName>Sister
                   Anna Henrich</persName>'s Life and
@@ -150,9 +152,8 @@
                   and Thank'd him Humble for
                </p>
             </div>
-            
             <div type="page" n="2">
-               <head>Page 2 <seg ana="MemBeth_0102-02" />
+               <head type="page" ana="MemBeth_0102-02">2
                </head>
                <p>
                   Women to be baptised which
@@ -184,9 +185,8 @@
                   grif was gon, for joy over
                </p>
             </div>
-            
             <div type="page" n="3">
-               <head>Page 3 <seg ana="MemBeth_0102-03" />
+               <head type="page" ana="MemBeth_0102-03">3
                </head>
                <p>
                   Those Sisters. on the <date>11th
@@ -218,9 +218,8 @@
                   up(page fold)
                </p>
             </div>
-            
             <div type="page" n="4">
-               <head>Page 4 <seg ana="MemBeth_0102-04" />
+               <head type="page" ana="MemBeth_0102-04">4
                </head>
                <p>
                   upon being soon by hir 
@@ -250,9 +249,8 @@
                   <persName>Savior</persName> concerning this
                </p>
             </div>
-            
             <div type="page" n="5">
-               <head>Page 5 <seg ana="MemBeth_0102-05" />
+               <head type="page" ana="MemBeth_0102-05">5
                </head>
                <p>
                   Jurney, He will strongthen
@@ -280,10 +278,10 @@
                   tha...page folded
                </p>
             </div>
-            
             <div type="page" n="6">
-               <head>Page 6 <seg ana="MemBeth_0102-06" />
+               <head type="page" ana="MemBeth_0102-06">6
                </head>
+
                <p>
                   that manner, that it
                   Directly came in my mind
@@ -309,9 +307,8 @@
                   she was from Morning
                </p>
             </div>
-            
             <div type="page" n="7">
-               <head>Page 7 <seg ana="MemBeth_0102-07" />
+               <head type="page" ana="MemBeth_0102-07">7
                </head>
                <p>
                   till night visitted by 
@@ -338,10 +335,10 @@
                   had long for to Egarte?
                </p>
             </div>
-            
             <div type="page" n="8">
-               <head>Page 8 <seg ana="MemBeth_0102-08" />
+               <head type="page" ana="MemBeth_0102-08">8
                </head>
+
                <p>
                   is at hand, and that her
                   soul and body is <name type="emotion">rejoyced</name> 
@@ -367,9 +364,8 @@
                   so that 
                </p>
             </div>
-            
             <div type="page" n="9">
-               <head>Page 9 <seg ana="MemBeth_0102-09" />
+               <head type="page" ana="MemBeth_0102-09">9
                </head>
                <p>
                   so that her End was 
